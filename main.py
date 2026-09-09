@@ -1,0 +1,1 @@
+print("moj prvi git projekat")
