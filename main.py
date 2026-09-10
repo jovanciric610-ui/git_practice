@@ -1,3 +1,4 @@
 print("moj prvi git projekat")
 print("ucim git")
 print("Git je zanimljiv")
+print("git dan 2")
